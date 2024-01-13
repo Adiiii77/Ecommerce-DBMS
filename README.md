@@ -30,9 +30,9 @@
 Contributions and feedback are welcome! If you have ideas for enhancements or bug fixes, feel free to fork the repository, create branches, and submit pull requests.
 
 **Project Structure:**
-- `main.py`: The main Python script containing the menu-driven interface.
-- `sql_scripts/`: Folder containing SQL scripts for table creation, triggers, and other database operations.
-- `credentials.txt`: File for storing usernames and passwords for access control.
-- (Include other relevant files or folders)
+- `usingOracle.py`: The main Python script containing the menu-driven interface.
+- `CartDeletionTrigger.sql/`: SQL scripts triggers, and other database operations.
+- `queries.txt/`: SQL scripts for table creation.
+- files and data saved in oracle database
 
 Embark on a journey to streamline eCommerce database management. Optimize your online retail operations with our eCommerce DBMS. Securely manage access with usernames and passwords. Happy coding! 🚀🛍️
