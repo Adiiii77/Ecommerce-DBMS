@@ -25,7 +25,7 @@
 
 **Sample Code Snippet:**
 ```python
-# Include a snippet showcasing Python-Oracle connectivity or any key functionality.
+![Project Snippet](./sample.png)
 ```
 
 **Contributions:**
