@@ -23,10 +23,8 @@
 3. Run the Python script (`main.py` or as per your project structure) to launch the eCommerce DBMS interface.
 4. Navigate through the menu to perform various operations on the database tables.
 
-**Sample Code Snippet:**
-```python
+**Sample Snippet:**
 ![Project Snippet](./sample.png)
-```
 
 **Contributions:**
 Contributions and feedback are welcome! If you have ideas for enhancements or bug fixes, feel free to fork the repository, create branches, and submit pull requests.
